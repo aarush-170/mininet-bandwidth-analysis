@@ -1,6 +1,9 @@
 # 🌐 Mininet Bandwidth Measurement & Analysis
 ### UE24CS252B — Computer Networks
 
+##  Name: Aarush Muralidhara 
+##  SRN:  PES1UG24CS010
+
 > Measuring and comparing TCP bandwidth across three Mininet topologies using `iperf`, with a **POX remote controller** and **Open vSwitch (ovsk)**.
 
 ---
