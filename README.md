@@ -66,7 +66,7 @@ python3 pox.py forwarding.l2_learning
 
 **Screenshot — POX Controller Running:**
 
-![POX Controller](screenshots/ss-4.jpeg)
+![POX Controller](screenshots/ss-1.jpeg)
 
 > POX 0.7.0 (gar) starts up and listens for switch connections on port 6633.
 
@@ -116,7 +116,7 @@ h2 ──┘
 
 **Screenshot:**
 
-![Single Topology](screenshots/ss-3.jpeg)
+![Single Topology](screenshots/ss-2.jpeg)
 
 ---
 
@@ -148,7 +148,7 @@ h1──s1──s2──s3──h3
 
 **Screenshot:**
 
-![Linear Topology](screenshots/ss-2.jpeg)
+![Linear Topology](screenshots/ss-3.jpeg)
 
 ---
 
@@ -182,7 +182,7 @@ mininet> h4 iperf -c h1
 
 **Screenshot:**
 
-![Tree Topology](screenshots/ss-1.jpeg)
+![Tree Topology](screenshots/ss-4.jpeg)
 
 ---
 
